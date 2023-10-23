@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto One:wght@100;400&display=swap');
+
+.navbar-brand{
+    color: aliceblue;
+    font-family: 'Aboreto';
+}
+.btn{
+    color: white;
+}

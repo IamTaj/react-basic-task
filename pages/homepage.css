@@ -1,0 +1,26 @@
+.items{
+    display: flex;
+    margin: 10px;
+    justify-content: space-evenly;
+}
+.carousel-item{
+    padding: 10px;
+    
+}
+.link{
+    background-image: url("https://rukminim1.flixcart.com/fk-p-flap/278/278/image/7593e7b6640822c1.jpg?q=90");
+    background-repeat: no-repeat;
+    background-origin:content-box;
+    height: 200px;
+    background-position-y: 60px;
+    text-align: center;
+}
+.electronics{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 400px;
+}
+.e1{
+    text-align: center;
+}
